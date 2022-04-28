@@ -8,9 +8,9 @@ On the day you will be presented with a specification for what you will be expec
 
 These have some detail in, but there is an expectation that you will have a conversation with the 'product owner' about some details for the functionality and implementation.
 
-As you can see from the skeleton provided in the repo, the task will be to build a couple of endpoints in a ASP.NET web application. 
+As you can see from the skeleton provided in the repo, the task will be to build a couple of endpoints in an ASP.NET web application. 
 
-The first task is a CRUD action, inputting data to the server. The second task is to retrieve this data and translate it into a report.
+The first task is a CRUD action, input data to the server. The second task is to retrieve this data and translate it into a report.
 
 ## Assessment
 
