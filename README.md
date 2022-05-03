@@ -2,6 +2,19 @@
 
 Skeleton for Codat's .NET based interview pair programming.
 
+If you are interested in working at Codat, please take a look at the [current roles open on our careers page](https://www.codat.io/careers/). If there isn't a role that you think would suit your skills, but you are still interested in working with us, please reach out to the talent team or a hiring manager directly.
+
+## Development environment setup
+
+If you are going to attend a pair programming interview at Codat we have a number of options for your dev environment. You are welcome to use your own machine, so long as you are able to share your screen with the interviewers. The other option is to use one of our dedicated virtual machines.
+
+If you would like to use one of our virtual machines the interviewers can configure the environment with many of your personal preferernces. Things like;
+
+1. IDE; such as Rider, Visual Studio, or VsCode.
+2. IDE theme; dark or light theme, or a high contrast theme of your choice if needed.
+4. IDE plugins; we have licences for ReSharper as standard for VS, you can opt to disbale this.
+5. Keyboard layout; QWERTY in US or UK version, dvorak, or something else.
+
 ## Task
 
 On the day you will be presented with a specification for what you will be expected to build in the form of 2 user stories.
