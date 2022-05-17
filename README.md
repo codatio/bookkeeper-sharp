@@ -8,11 +8,11 @@ If you are interested in working at Codat, please take a look at the [current ro
 
 If you are going to attend a pair programming interview at Codat we have a number of options for your dev environment. You are welcome to use your own machine, so long as you are able to share your screen with the interviewers. The other option is to use one of our dedicated virtual machines.
 
-If you would like to use one of our virtual machines the interviewers can configure the environment with many of your personal preferernces. Things like;
+If you would like to use one of our virtual machines the interviewers can configure the environment with many of your personal preferences. Things like;
 
 1. IDE; such as Rider, Visual Studio, or VsCode.
 2. IDE theme; dark or light theme, or a high contrast theme of your choice if needed.
-4. IDE plugins; we have licences for ReSharper as standard for VS, you can opt to disbale this.
+4. IDE plugins; we have licences for ReSharper as standard for VS, you can opt to disable this.
 5. Keyboard layout; QWERTY in US or UK version, dvorak, or something else.
 
 ## Task
@@ -27,7 +27,7 @@ The first task is a CRUD action, input data to the server. The second task is to
 
 ## Assessment
 
-There are a series of competancies that you will be marked against after completing the task which include; architecture, design, implmentation code, testing, and core skills related to things like time management. 
+There are a series of competencies that you will be marked against after completing the task which include; architecture, design, implementation code, testing, and core skills related to things like time management. 
 
 These skills are marked on the basis of the level of engineer you are applying for. Which means, for instance, that we would expect the language used to describe the design and sophistication of the design to be reduced for a Software Engineer 1 vs a Principal Engineer or Staff Engineer. Everyone gets an opportunity to really shine in each area of assessment though.
 
