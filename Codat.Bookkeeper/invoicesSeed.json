@@ -1,0 +1,140 @@
+[
+  {
+    "invoiceId": 1,
+    "amount": 58.24,
+    "customerName": "Daffy Duck",
+    "reference": "Basketball",
+    "tenantId": 1,
+    "amountPaid": 58.24,
+    "amountOutstanding": 0,
+    "payments": [
+      {
+        "paymentId": 1,
+        "amount": 58.24
+      }
+    ]
+  },
+  {
+    "invoiceId": 2,
+    "amount": 130.68,
+    "customerName": "Daffy Duck",
+    "reference": "Violin",
+    "tenantId": 1,
+    "amountPaid": 10,
+    "amountOutstanding": 120.68,
+    "payments": [
+      {
+        "paymentId": 2,
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "invoiceId": 3,
+    "amount": 140.32,
+    "customerName": "Daffy Duck",
+    "reference": "Plunger",
+    "tenantId": 1,
+    "amountPaid": 90.32,
+    "amountOutstanding": 50,
+    "payments": [
+      {
+        "paymentId": 3,
+        "amount": 40.32
+      },
+      {
+        "paymentId": 4,
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "invoiceId": 4,
+    "amount": 41.55,
+    "customerName": "Daffy Duck",
+    "reference": "House",
+    "tenantId": 1,
+    "amountPaid": 0,
+    "amountOutstanding": 41.55,
+    "payments": []
+  },
+  {
+    "invoiceId": 5,
+    "amount": 98.04,
+    "customerName": "Daffy Duck",
+    "reference": "Rabbit Food",
+    "tenantId": 1,
+    "amountPaid": 0,
+    "amountOutstanding": 98.04,
+    "payments": []
+  },
+  {
+    "invoiceId": 6,
+    "amount": 58.24,
+    "customerName": "Bugs Bunny",
+    "reference": "Carrots",
+    "tenantId": 2,
+    "amountPaid": 58.24,
+    "amountOutstanding": 0,
+    "payments": [
+      {
+        "paymentId": 5,
+        "amount": 58.24
+      }
+    ]
+  },
+  {
+    "invoiceId": 7,
+    "amount": 130.68,
+    "customerName": "Bugs Bunny",
+    "reference": "Crown",
+    "tenantId": 2,
+    "amountPaid": 10,
+    "amountOutstanding": 120.68,
+    "payments": [
+      {
+        "paymentId": 6,
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "invoiceId": 8,
+    "amount": 140.32,
+    "customerName": "Bugs Bunny",
+    "reference": "Dental Treatment",
+    "tenantId": 2,
+    "amountPaid": 90.32,
+    "amountOutstanding": 50,
+    "payments": [
+      {
+        "paymentId": 7,
+        "amount": 40.32
+      },
+      {
+        "paymentId": 8,
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "invoiceId": 9,
+    "amount": 41.55,
+    "customerName": "Bugs Bunny",
+    "reference": "More Carrots",
+    "tenantId": 2,
+    "amountPaid": 0,
+    "amountOutstanding": 41.55,
+    "payments": []
+  },
+  {
+    "invoiceId": 10,
+    "amount": 98.04,
+    "customerName": "Bugs Bunny",
+    "reference": "Duck Repellent",
+    "tenantId": 2,
+    "amountPaid": 0,
+    "amountOutstanding": 98.04,
+    "payments": []
+  }
+]
