@@ -19,7 +19,7 @@ If you would like to use one of our virtual machines the interviewers can config
 
 On the day you will be presented with a specification for what you will be expected to build in the form of 2 user stories.
 
-These have some detail in, but there is an expectation that you will have a conversation with the 'product owner' about some details for the functionality and implementation.
+These have some detail, but there is an expectation that you will have a conversation with the 'product owner' about some details for the functionality and implementation.
 
 As you can see from the skeleton provided in the repo, the task will be to build a couple of endpoints in an ASP.NET web application. 
 
